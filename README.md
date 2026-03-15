@@ -1,2 +1,3 @@
 # coffeshop
-its my practice project 
+its my practice project
+<title>Coffe shope</title>
