@@ -6,6 +6,6 @@
     <title>Coffe shop</title>
 </head>
 <body>
-    
+    <nav></nav>
 </body>
 </html>
